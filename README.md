@@ -1,6 +1,6 @@
 # SmartCV
 
-SmartCV is a powerful open-source resume builder and resume parser.
+SmartCV is a powerful open-source resume builder and resume parser
 
 The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence.
 
